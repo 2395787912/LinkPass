@@ -30,7 +30,7 @@
 ## 🚀 使用方法
 
 ### 1. 访问网站
-进入防红链接生成器：[taocrypt.github.io/LinkPass](https://taocrypt.github.io/LinkPass)
+进入防红链接生成器：[2395787912.github.io/LinkPass](https://2395787912.github.io/LinkPass)
 
 ### 2. 输入密码
 - 默认密码：`taocrypt`
